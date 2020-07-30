@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 我的博客
 
-You can use the [editor on GitHub](https://github.com/WangCao/wangcao.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+我是一个普通的大龄程序员，水平有限，一直在一线撸业务，以前在暴走漫画写过flash和ruby（我很怀念的一家公司），目前在小米从事前端开发
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 博客由来
 
-### Markdown
+平时写代码或者看文章，会记录一些资料在有道云笔记中，虽然方便，但是散乱且无序，通过放到线上“公示”，会提醒自己，一些记录的知识点需要完整，全面，排版清晰，对别人有帮助
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 兴趣
 
-```markdown
-Syntax highlighted code block
+喜欢看网络小说，一直在微信读书上白嫖起点的小说。喜欢玩王者荣耀，但是水平一般，在钻石段位徘徊了好几年。不怎么宅，周末不是紫金山就是老山
 
-# Header 1
-## Header 2
-### Header 3
+### 希望
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WangCao/wangcao.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+在不想写代码或者被N+1之后，开一家幼儿园，开一家包子铺
